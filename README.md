@@ -13,6 +13,7 @@
 ## 기본적인 시험 정보
 - [시험 안내서](https://d1.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_professional_blueprint_2014_KO.33794982a571f36cb4e979213785d8b8ee6e91ec.pdf): 많은 분들이 제대로 읽어보시지 않으시는데 수험 준비를 위해 대단히 중요한 문서이므로 꼼꼼히 읽어 두셔야 합니다. 이 문서는 이 시험 안내서에 기반하여 작성되었습니다.
 - [시험 안내 페이지](https://aws.amazon.com/ko/certification/certified-solutions-architect-professional/)
+- [시험 안내서 pdf](https://d1.awsstatic.com/International/ko_KR/AWS_certified_solutions_architect_professional_blueprint_2014_KO.pdf)
 - [시험 신청](https://www.aws.training/certification?src=arc-pro)
 - [AWS기반 아키텍처 설계](https://aws.amazon.com/ko/training/course-descriptions/advanced-architecting/): 3일동안 강의와 실습으로 진행되는 수업이며 이 수업에서 다루는 내용이 바로 AWS 솔루션스 아키텍트 자격증시험의 출제 범위가 됩니다.
 - [시험 워크숍 참여](https://www.aws.training/training/schedule?courseId=10022&src=arc-pro)
